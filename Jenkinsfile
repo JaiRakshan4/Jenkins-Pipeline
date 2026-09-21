@@ -24,3 +24,4 @@ pipeline {
         }
     }
 }
+// trigger automatic build test
